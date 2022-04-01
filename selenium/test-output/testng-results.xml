@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="44" total="56" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="415277" started-at="2022-03-30T14:16:07Z" finished-at="2022-03-30T14:23:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="415277" started-at="2022-03-30T14:16:07Z" finished-at="2022-03-30T14:23:02Z">
+      <class name="pom.irctc.testcase.TC006">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC006@617faa95]" name="beforeMethod" is-config="true" duration-ms="14010" started-at="2022-03-30T19:48:40Z" finished-at="2022-03-30T19:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC006@617faa95]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:48:40Z" finished-at="2022-03-30T19:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="registerForm()[pri:0, instance:pom.irctc.testcase.TC006@617faa95]" name="registerForm" duration-ms="45894" started-at="2022-03-30T19:48:54Z" finished-at="2022-03-30T19:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerForm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC006@617faa95]" name="afterMethod" is-config="true" duration-ms="4682" started-at="2022-03-30T19:49:40Z" finished-at="2022-03-30T19:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC006@617faa95]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:49:45Z" finished-at="2022-03-30T19:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC006 -->
+      <class name="pom.irctc.testcase.TC007">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC007@1e127982]" name="beforeMethod" is-config="true" duration-ms="22681" started-at="2022-03-30T19:49:45Z" finished-at="2022-03-30T19:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC007@1e127982]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:49:45Z" finished-at="2022-03-30T19:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="simpleAlert()[pri:0, instance:pom.irctc.testcase.TC007@1e127982]" name="simpleAlert" duration-ms="44950" started-at="2022-03-30T19:50:07Z" finished-at="2022-03-30T19:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleAlert -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC007@1e127982]" name="afterMethod" is-config="true" duration-ms="9289" started-at="2022-03-30T19:50:52Z" finished-at="2022-03-30T19:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC007@1e127982]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:51:02Z" finished-at="2022-03-30T19:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC007 -->
+      <class name="pom.irctc.testcase.TC008">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC008@60c6f5b]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:51:02Z" finished-at="2022-03-30T19:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC008@60c6f5b]" name="beforeMethod" is-config="true" duration-ms="14083" started-at="2022-03-30T19:51:02Z" finished-at="2022-03-30T19:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="promptAlert()[pri:0, instance:pom.irctc.testcase.TC008@60c6f5b]" name="promptAlert" duration-ms="20666" started-at="2022-03-30T19:51:16Z" finished-at="2022-03-30T19:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promptAlert -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC008@60c6f5b]" name="afterMethod" is-config="true" duration-ms="2028" started-at="2022-03-30T19:51:36Z" finished-at="2022-03-30T19:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC008@60c6f5b]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:51:38Z" finished-at="2022-03-30T19:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC008 -->
+      <class name="pom.irctc.testcase.TC009">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC009@2038ae61]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:51:38Z" finished-at="2022-03-30T19:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC009@2038ae61]" name="beforeMethod" is-config="true" duration-ms="12434" started-at="2022-03-30T19:51:38Z" finished-at="2022-03-30T19:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="promptAlert()[pri:0, instance:pom.irctc.testcase.TC009@2038ae61]" name="promptAlert" duration-ms="24318" started-at="2022-03-30T19:51:51Z" finished-at="2022-03-30T19:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promptAlert -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC009@2038ae61]" name="afterMethod" is-config="true" duration-ms="2041" started-at="2022-03-30T19:52:15Z" finished-at="2022-03-30T19:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC009@2038ae61]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:52:17Z" finished-at="2022-03-30T19:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC009 -->
+      <class name="pom.irctc.testcase.TC002">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC002@dc24521]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC002@dc24521]" name="beforeMethod" is-config="true" duration-ms="19743" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ftrSignup()[pri:0, instance:pom.irctc.testcase.TC002@dc24521]" name="ftrSignup" duration-ms="117729" started-at="2022-03-30T19:46:26Z" finished-at="2022-03-30T19:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftrSignup -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC002@dc24521]" name="afterMethod" is-config="true" duration-ms="2717" started-at="2022-03-30T19:48:24Z" finished-at="2022-03-30T19:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC002@dc24521]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:48:27Z" finished-at="2022-03-30T19:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC002 -->
+      <class name="pom.irctc.testcase.TC003">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC003@10bdf5e5]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC003@10bdf5e5]" name="beforeMethod" is-config="true" duration-ms="91862" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="enquiryForm()[pri:0, instance:pom.irctc.testcase.TC003@10bdf5e5]" name="enquiryForm" duration-ms="33586" started-at="2022-03-30T19:47:39Z" finished-at="2022-03-30T19:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enquiryForm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC003@10bdf5e5]" name="afterMethod" is-config="true" duration-ms="12927" started-at="2022-03-30T19:48:12Z" finished-at="2022-03-30T19:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC003@10bdf5e5]" name="afterClass" is-config="true" duration-ms="2" started-at="2022-03-30T19:48:25Z" finished-at="2022-03-30T19:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC003 -->
+      <class name="pom.irctc.testcase.TC004">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC004@6e1ec318]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:48:25Z" finished-at="2022-03-30T19:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC004@6e1ec318]" name="beforeMethod" is-config="true" duration-ms="75510" started-at="2022-03-30T19:48:25Z" finished-at="2022-03-30T19:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="bookHotels()[pri:0, instance:pom.irctc.testcase.TC004@6e1ec318]" name="bookHotels" duration-ms="150624" started-at="2022-03-30T19:49:41Z" finished-at="2022-03-30T19:52:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookHotels -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC004@6e1ec318]" name="afterMethod" is-config="true" duration-ms="3808" started-at="2022-03-30T19:52:11Z" finished-at="2022-03-30T19:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC004@6e1ec318]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:52:15Z" finished-at="2022-03-30T19:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC004 -->
+      <class name="pom.irctc.testcase.TC005">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC005@7e0b0338]" name="beforeMethod" is-config="true" duration-ms="75143" started-at="2022-03-30T19:48:27Z" finished-at="2022-03-30T19:49:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC005@7e0b0338]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:48:27Z" finished-at="2022-03-30T19:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifyGst()[pri:0, instance:pom.irctc.testcase.TC005@7e0b0338]" name="verifyGst" duration-ms="154864" started-at="2022-03-30T19:49:42Z" finished-at="2022-03-30T19:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGst -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC005@7e0b0338]" name="afterMethod" is-config="true" duration-ms="2269" started-at="2022-03-30T19:52:17Z" finished-at="2022-03-30T19:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC005@7e0b0338]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:52:19Z" finished-at="2022-03-30T19:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC005 -->
+      <class name="pom.irctc.testcase.TC010">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC010@3c0f93f1]" name="beforeMethod" is-config="true" duration-ms="30033" started-at="2022-03-30T19:52:15Z" finished-at="2022-03-30T19:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC010@3c0f93f1]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:52:15Z" finished-at="2022-03-30T19:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="fbSignup()[pri:0, instance:pom.irctc.testcase.TC010@3c0f93f1]" name="fbSignup" duration-ms="6001" started-at="2022-03-30T19:52:45Z" finished-at="2022-03-30T19:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbSignup -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC010@3c0f93f1]" name="afterMethod" is-config="true" duration-ms="1360" started-at="2022-03-30T19:52:51Z" finished-at="2022-03-30T19:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC010@3c0f93f1]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:52:52Z" finished-at="2022-03-30T19:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC010 -->
+      <class name="pom.irctc.testcase.TC011">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC011@31dc339b]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:52:17Z" finished-at="2022-03-30T19:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC011@31dc339b]" name="beforeMethod" is-config="true" duration-ms="27945" started-at="2022-03-30T19:52:17Z" finished-at="2022-03-30T19:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="PanRegister()[pri:0, instance:pom.irctc.testcase.TC011@31dc339b]" name="PanRegister" duration-ms="13876" started-at="2022-03-30T19:52:45Z" finished-at="2022-03-30T19:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PanRegister -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC011@31dc339b]" name="afterMethod" is-config="true" duration-ms="3016" started-at="2022-03-30T19:52:59Z" finished-at="2022-03-30T19:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC011@31dc339b]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:53:02Z" finished-at="2022-03-30T19:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC011 -->
+      <class name="pom.irctc.testcase.TC012">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC012@544fe44c]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:52:19Z" finished-at="2022-03-30T19:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC012@544fe44c]" name="beforeMethod" is-config="true" duration-ms="28266" started-at="2022-03-30T19:52:19Z" finished-at="2022-03-30T19:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="phpTravelsRegistration()[pri:0, instance:pom.irctc.testcase.TC012@544fe44c]" name="phpTravelsRegistration" duration-ms="11827" started-at="2022-03-30T19:52:47Z" finished-at="2022-03-30T19:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phpTravelsRegistration -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC012@544fe44c]" name="afterMethod" is-config="true" duration-ms="2221" started-at="2022-03-30T19:52:59Z" finished-at="2022-03-30T19:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC012@544fe44c]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:53:01Z" finished-at="2022-03-30T19:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.irctc.testcase.TC012 -->
+      <class name="pom.irctc.testcase.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="beforeSuite" is-config="true" duration-ms="160" started-at="2022-03-30T19:46:06Z" finished-at="2022-03-30T19:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="beforeMethod" is-config="true" duration-ms="90911" started-at="2022-03-30T19:46:07Z" finished-at="2022-03-30T19:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="irctcRegistration()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="irctcRegistration" duration-ms="60135" started-at="2022-03-30T19:47:38Z" finished-at="2022-03-30T19:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcRegistration -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="afterMethod" is-config="true" duration-ms="2273" started-at="2022-03-30T19:48:38Z" finished-at="2022-03-30T19:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-03-30T19:48:40Z" finished-at="2022-03-30T19:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-03-30T19:53:02Z" finished-at="2022-03-30T19:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:pom.irctc.testcase.TC001@148080bb]" name="afterSuite" is-config="true" duration-ms="591" started-at="2022-03-30T19:53:02Z" finished-at="2022-03-30T19:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- pom.irctc.testcase.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
